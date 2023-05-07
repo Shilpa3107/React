@@ -1,14 +1,6 @@
 import Recat from 'react';
 import ReactDOM from'react-dom';
-import Heading from './Heading';
-import Para from './Para';
-import Table from './Table';
+import App from './App';
 
-ReactDOM.render(
-    <>
-        <Heading/>
-        <Para/>
-        <Table/>
-    </>,
-     document.getElementById("root")
+ReactDOM.render(<App/>, document.getElementById("root")
 );
