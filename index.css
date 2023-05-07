@@ -1,0 +1,22 @@
+ *{
+    margin : 0;
+    padding : 0;
+    box-sizing : border-box;
+    background-color : rgb(100, 227, 221);
+ }
+ .heading{
+    width : 400px;
+    background-color: lightgoldenrodyellow;
+    border-radius: 10px 10px 10px 10px;
+    margin : 10px;
+    padding: 20px;
+    box-align: start;
+    position:absolute;
+    top: 30%;
+    left: 30%;
+ }
+.heading{
+   color :#fa9191;
+   font-weight: bold;
+   margin: 70px;
+}
