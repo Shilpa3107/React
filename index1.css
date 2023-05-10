@@ -1,0 +1,86 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto+Slab:100,300,400,700");
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,300i,400,400i,500,500i,600,600i");
+ @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap');
+
+*{
+   margin : 0;
+   padding : 0;
+   box-sizing : border-box;
+   background-color: #64e69e;
+   text-align: center;
+  
+}
+
+.slotmachine{
+  width : 300%;
+  height : 280px;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+  text-align: center;
+
+}
+.slotmachine {
+  background-color: #fff;
+  border-bottom-left-radius: 12px;
+  border-bottom-right-radius: 12px;
+  padding: 16px 24px 24px 24px;
+  background-color: #fff;
+  text-align: center;
+
+}
+.slotmachine {
+  font-weight :"Raleway",sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
+  text-transform: uppercase;
+  font-size: 13px;
+  letter-spacing: 2px;
+  font-weight: 500;
+  /* color: #868686; */
+  background-color: #fff;
+  text-align: center;
+}
+.slotmachine{
+  width:100%;
+  height: auto;
+  text-align: center;
+}
+.slotmachine{
+  margin:6%;
+  transition: all 0.4s cubic-bezier(0.175, 0.885, 0, 1);
+  background-color: #fff;
+  width:28.5%;
+  height : 500px;
+  border-radius: 12px;
+  box-shadow: 0 13px 10px -7px rgba(0,0,0,0.1);
+  float: left;
+  text-align: center;
+  margin-left: 530px;
+}
+.heading{
+  padding: 300px,0;
+  text-align:center;
+  font-family: "Raleway",sans-serif;
+  text-transform:uppercase;
+  font-size: 13px;
+  letter-spacing: 2px;
+  font-weight: 500;
+  color:orange;
+  background-color: #fff;
+  font-size: 1.5rem;
+  margin-bottom: 30px;
+}
+.slotinner{
+ margin-top: 5px;
+ margin-bottom: 10px;
+ font-family: 'Roboto Condensed', sans-serif;
+ background-color: #fff;
+ text-transform: capitalize;
+  text-align: center;
+}
+.slotinner{
+  text-align: center; 
+}
+.slotinner{
+  background-color: white;
+  text-align: center;
+}
